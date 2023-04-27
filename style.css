@@ -1,0 +1,27 @@
+body {
+    color: #fff;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+
+
+.container {
+    width: 40vw;
+    height: 50vh;
+    margin: 200px auto;
+}
+
+
+.Invalid {
+    border: 2px solid red;
+
+
+}
+
+small {
+    color: red;
+}
+
+.valid {
+    border: 2px solid rgb(24, 194, 56);
+
+}
